@@ -1,2 +1,2 @@
-# Hoop-Stars
-Using Visual Studio Code
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
